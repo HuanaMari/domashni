@@ -1,6 +1,6 @@
 exports.firstAdd = function  () {
 
-    return  ('Marija Kuzmanoska')
+    return  ('student Marija Kuzmanoska')
    
  }
  
